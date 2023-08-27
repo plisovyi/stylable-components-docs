@@ -1,0 +1,14 @@
+# Build
+/build
+
+# Generated files
+.docusaurus
+.cache-loader
+
+# IDEs
+.idea
+*.iml
+
+# npm
+node_modules
+.npm
